@@ -1,0 +1,10 @@
+en:
+  ricer4:
+    plugin:
+      log:
+        log_channel:
+          description: 'Show or set logging options for this channel.'
+          msg_show: 'Logging in %{channel} is %{state}.'
+        log_server:
+          description: 'Show or set logging options for this server.'
+          msg_show: 'Logging for %{server} is %{state}.'
